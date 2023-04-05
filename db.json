@@ -1,0 +1,8 @@
+{
+  "todos": [
+    { "id": 0, "title": "сделать домашку", "isCompleted": true },
+    { "id": 1, "title": "убраться дома", "isCompleted": false },
+    { "id": 2, "title": "покормить детей", "isCompleted": true },
+    { "id": 3, "title": "принять душ", "isCompleted": false }
+  ]
+}
